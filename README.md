@@ -1,4 +1,5 @@
 # Evaluation
+(always evaluate https://hamel.dev/blog/posts/evals/, https://hamel.dev/blog/posts/llm-judge/)
 
 1. **Enhancing LLM-as-a-Judge with Grading Notes**
    
